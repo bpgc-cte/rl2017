@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Reinforcement Learning\n\n\nClick on the module numbers on the left panel to access the tutorials.",
+            "text": "Reinforcement Learning\n\n\nClick on the module numbers on the left panel to access the tutorials.\n\n\nThe orientation slides are \nhere",
             "title": "Home"
         },
         {
             "location": "/#reinforcement-learning",
-            "text": "Click on the module numbers on the left panel to access the tutorials.",
+            "text": "Click on the module numbers on the left panel to access the tutorials.  The orientation slides are  here",
             "title": "Reinforcement Learning"
         },
         {
@@ -179,6 +179,11 @@
             "location": "/lecture2/",
             "text": "Check the slides \nhere",
             "title": "Lecture 2 - Agent, Environment, Rewards"
+        },
+        {
+            "location": "/lecture3/",
+            "text": "Check the slides \nhere\n\n\nReading Materials that Preetham suggested in class: \nhttps://github.com/bpgc-cte/rl2017/tree/materials/class_2_reading_material",
+            "title": "Lecture 3 - Reward and Policy"
         }
     ]
 }
