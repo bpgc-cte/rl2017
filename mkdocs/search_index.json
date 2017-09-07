@@ -184,6 +184,11 @@
             "location": "/lecture3/",
             "text": "Check the slides \nhere\n\n\nReading Materials that Preetham suggested in class: \nhttps://github.com/bpgc-cte/rl2017/tree/materials/class_2_reading_material",
             "title": "Lecture 3 - Reward and Policy"
+        },
+        {
+            "location": "/lecture4/",
+            "text": "Check the gym jupyter notebook \nhere",
+            "title": "Lecture 4 - Introduction to Gym"
         }
     ]
 }
